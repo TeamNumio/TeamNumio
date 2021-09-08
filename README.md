@@ -3,7 +3,7 @@
 
 Hello and welcome to the official Numio GitHub account. We are glad you stopped by. 
 While most of our repositories and code are closed-source, we want to be as transaparent as possible, where possible. 
-Here you can find links to some officil Numio resources. 
+Here you can find links to some official Numio resources. 
 
 ## 🏗️ Numio Open-Source Repositories and Packages
 * Numio CDN (Login with Numio): https://npm.io/package/numio-cdn
