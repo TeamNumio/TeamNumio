@@ -1,4 +1,5 @@
 # 👋 Welcome to Numio
+![Numio on the iOS Appstore](https://gblobscdn.gitbook.com/assets%2F-Mhwkyg0nwsjaPtD3D52%2F-Mhz1r29083F5wwnMcoS%2F-Mhz2IAWhlEHde3kSwjz%2Fnumio.png?alt=media&token=804b01b1-b009-4838-966d-5a9a3ca3650c)
 
 Hello and welcome to the official Numio GitHub account. We are glad you stopped by. 
 While most of our repositories and code are closed-source, we want to be as transaparent as possible, where possible. 
